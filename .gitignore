@@ -9,3 +9,5 @@
 10-stack/stack
 11-list/list
 11-list/list.o
+12-hashmap/hashmap
+12-hashmap/hashmap.o
